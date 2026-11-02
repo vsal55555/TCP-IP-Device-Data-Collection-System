@@ -1,0 +1,19 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+
+# Python
+__pycache__/
+venv/
+.env
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Logs
+logs/
+
+# SQL Local DB
+*.mdf
+*.ldf

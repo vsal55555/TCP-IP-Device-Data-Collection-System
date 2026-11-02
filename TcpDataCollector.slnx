@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="DeviceSimulator/DeviceSimulator.csproj" />
+  <Project Path="TcpDataCollector.Worker/TcpDataCollector.Worker.csproj" />
+</Solution>
